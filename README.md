@@ -121,7 +121,7 @@ The validation visualization is shown in the figure below：
 **Table 1 Comparison of Experimental Data**
 
 | 网络名称 | train_loss(m/pix) | val_loss(m/pix) | Test_loss(m/pix) | FPS |
-|:------:|:-------:|------:|:-------:|:------:|
+|:------:|:-------:|:------:|:-------:|:------:|
 | StereoNet | 0.01307 | 0.09586 | 0.09467 | 45.55 |
 | StereoNet+SKAttention | 0.01635 | 0.08952 | 0.07306 | 31.68 |
 | StereoNet+SEAttention | 0.01318 | 0.08618 | 0.06497 | 26.88 |
